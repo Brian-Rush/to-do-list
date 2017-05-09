@@ -42,6 +42,6 @@ $(document).ready(function() {
     // };
 
     //Reset Field
-    $("input#text-input").val("");
+    // $("input#text-input").val("");
   });
 });
